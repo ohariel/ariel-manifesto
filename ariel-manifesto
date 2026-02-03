@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <title>Comic Sans</title>
+    <style>
+      body {
+        background-color: hotpink;
+        padding: 25px;
+      }
+      p {
+        color: dodgerblue;
+        font-size: 30px;
+      }
+      h1 {
+        color: green;
+        font-size: 200px;
+      }
+      span {
+        color: orange;
+        text-transform: uppercase;
+        font-size: 100px;
+      }
+      div {
+        color: red;
+        font-size: 75px;
+        transform: rotate(35deg);
+        margin-top: 300px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Ban Comic Sans</h1>
+    <div>No, really!!!</div>
+    <p>Comic sans should be <span>banned</span>.</p>
+    <p>We believe in the gospel message “ban comic sans.” <br> <a href="https://1000manifestos.com/ban-comic-sans/">It shall be salvation to all who are literate.</a></p>
+  </body>
+</html
